@@ -1,4 +1,4 @@
-Lunar Rescue for the Tang Nano 9K FPGA Dev Board.
+Lunar Rescue for the Tang Nano 9K FPGA Dev Board. Pinballwiz.org 2025
 
 Notes:
 Controls are PS2 keyboard, F3=Coin F1=P1Start F2=P2Start LeftArrow=Move Left RightArrow=Move Right SpaceBar=Fire
